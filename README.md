@@ -29,3 +29,5 @@
 | ![MyContingencyPlan](./assets/images/captures/photo_2021-04-24_11-09-29.jpg "MyContingencyPlan") | ![Chat](./assets/images/captures/photo_2021-04-24_11-09-48.jpg "Chat")   |
 | ![SalesRep](./assets/images/captures/photo_2021-04-24_11-10-00.jpg "SalesRep")                   | ![Menu](./assets/images/captures/photo_2021-04-24_11-10-24.jpg "Menu")   |
 | ![MyAccount](./assets/images/captures/photo_2021-04-24_11-10-46.jpg "MyAccount")                 |
+
+## **Note: It is not possible to upload the system code to a public repository due to internal company policies.**
